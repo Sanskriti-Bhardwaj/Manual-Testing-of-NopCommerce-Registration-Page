@@ -65,6 +65,7 @@ All documents are uploaded in **both Excel/PDF** formats inside this repository.
 ## 👩‍💻 Author  
 **Sanskriti Bhardwaj**  
 🎓 Aspiring QA Engineer & Automation Tester  
-🔗 [GitHub Profile](https://github.com/Sanskriti-Bhardwaj)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sanskriti-bhardwaj01/)  
+- 🐙 [GitHub Profile](https://github.com/Sanskriti-Bhardwaj)  
 
 ---
