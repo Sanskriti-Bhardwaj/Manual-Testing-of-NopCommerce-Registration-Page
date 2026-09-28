@@ -1,0 +1,1 @@
+# Manual-Testing-of-NopCommerce-Registration-Page
